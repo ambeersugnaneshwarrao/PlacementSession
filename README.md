@@ -326,7 +326,7 @@ After completing this repository, you will be able to:
 🏫 MIT ADT University, Pune
 
 GitHub:
-https://github.com/SimranGur9335
+https://github.com/ambeersugnaneshwarrao
 
 ---
 
