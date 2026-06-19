@@ -320,7 +320,7 @@ After completing this repository, you will be able to:
 
 ## 👨‍💻 Author
 
-**Gursimran Singh Saini**
+**Ambeer Sugnaneshwar Rao**
 
 🎓 B.Tech Information Technology
 🏫 MIT ADT University, Pune
